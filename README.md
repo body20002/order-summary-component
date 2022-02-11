@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/body20002/order-summary-component)
 - Live Site URL: [live site URL](https://body20002.github.io/order-summary-component/)
 
 ## My process
